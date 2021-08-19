@@ -1,6 +1,8 @@
 import java.io.*
 import java.util.*
 
+//https://www.acmicpc.net/problem/2750
+
 fun main(){
     var br = BufferedReader(InputStreamReader(System.`in`))
     var bw = BufferedWriter(OutputStreamWriter(System.`out`))
