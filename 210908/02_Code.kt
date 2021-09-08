@@ -12,7 +12,7 @@ fun main(){
     for (i in 0 until n) {
         arr1[i] = br.readLine().toInt()
         if (i == 0) {
-            max = arr1[0]
+            max =  arr1[0]
         } else {
             if (arr1[i] > max) {
                 max = arr1[i]
